@@ -1,5 +1,5 @@
 # Power-BI-Dashboards
-All the Dashboards files can be found in the current repository. They are the files with the .pbix extension and can be opened using Power BI Desaktop
+All the Dashboards files can be found in the current repository. They are the files with the .pbix extension and can be opened using Power BI Desktop
 ## Customer Service 
 ![Preview](https://github.com/camilodel02/Power-BI-Dashboards/blob/main/Dashboard_Customer_Service.png)
 
