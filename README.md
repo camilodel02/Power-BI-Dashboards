@@ -16,4 +16,4 @@ All the Dashboards files can be found in the current repository. They are the fi
 ![Preview](Dashboard_Assurance_Case.png)
 
 ## Portland Cement
-![Preview]()
+![Preview](Dashboard_Portland_Cement.png)
