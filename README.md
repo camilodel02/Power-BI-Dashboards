@@ -2,10 +2,12 @@
 All the Dashboards files can be found in the current repository. They are the files with the .pbix extension and can be opened using Power BI Desktop
 
 ## Debtor Behavior
-![Preview](dashboard_marketingdigital.png)
+![Preview](dashboard_deudores.png)
+
 
 ## Digital Marketing
 ![Preview](dashboard_marketingdigital.png)
+
 
 ## Real Estate Report
 ![Preview](dashboard_inmobiliario.png)
